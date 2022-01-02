@@ -1,0 +1,49 @@
+{
+  "name": "cheSwap Default List",
+  "tokens": [
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0xDF0e293CC3c7bA051763FF6b026DA0853D446E38",
+      "chainId": 20181205,
+      "decimals": 6,
+      "logoURI": "https://token-list.oss-cn-hongkong.aliyuncs.com/tokens/icon/usdt.png"
+    },
+    {
+      "name": "Pizza",
+      "symbol": "Pizza",
+      "address": "0x5Cad8a1340E624Be90adfd787F6F3248DdF17321",
+      "chainId": 20181205,
+      "decimals": 6,
+      "logoURI": "https://token-list.oss-cn-hongkong.aliyuncs.com/tokens/icon/pizza.png"
+    },
+    {
+      "name": "QuarkUniteCommunity",
+      "symbol": "QUCC",
+      "address": "0xadfc13326ccac637f37722fca23b35c37a522c56",
+      "chainId": 20181205,
+      "decimals": 3,
+      "logoURI": "https://token-list.oss-cn-hongkong.aliyuncs.com/tokens/icon/bf0f488674c49bc3ec748ceeceff5138.png"
+    },
+    {"name":"QKIUSD",
+      "symbol":"QUSD",
+      "address":"0xD7B7e7ddCAf501CeC5946bbe8c05c4A468162523",
+      "chainId":20181205,
+      "decimals":6,
+      "logoURI":"https://token-list.oss-cn-hongkong.aliyuncs.com/tokens/icon/4f91c69f09e18c908f8c870b75031b5d.png"
+    },
+
+      {"name":"ChainChatToken",
+        "symbol":"CCT",
+        "address":"0x3616AB424CD95dD16a30689Eaaa062d48d1705Fb",
+        "chainId":20181205,
+        "decimals":8,
+        "logoURI":"https://token-list.oss-cn-hongkong.aliyuncs.com/tokens/icon/6a42cc563602caf0cb8fec99f9a176da.png"
+        },
+        {"name":"StakingPimoonToken","symbol":"SPT","address":"0x9ED8674cE1Ba6D38F5A27Cad6ED6c44007ABBB15","chainId":20181205,"decimals":9,"logoURI":"https:\/\/token-list.oss-cn-hongkong.aliyuncs.com\/tokens\/icon\/623380e2ec6dad5347a69045733fc9e6.jpg","isRecommend":1,"isFee":0},
+        {"name":"QuickBurnSdm","symbol":"QBS","address":"0x4bd0e39e5B0fC4d999D3974c1A835AA3184dd205","chainId":20181205,"decimals":3,"logoURI":"https:\/\/token-list.oss-cn-hongkong.aliyuncs.com\/tokens\/icon\/273d49ec63a9c1012187724ed93e0728.jpg","isRecommend":0,"isFee":0},{"name":"COF","symbol":"COF","address":"0x6f3565a709A1aaD4621Cb1cd1229feb936F2Ffe5","chainId":20181205,"decimals":3,"logoURI":"https:\/\/token-list.oss-cn-hongkong.aliyuncs.com\/tokens\/icon\/cdf5434a2fc21ede6975f3a49777c00a.png","isRecommend":1,"isFee":0}
+  ,{"name":"pizzatothemoon","symbol":"pimoon","address":"0xce186c79e36ed53ee057ac598f1fa69a88a699d7","chainId":20181205,"decimals":9,"logoURI":"https:\/\/token-list.oss-cn-hongkong.aliyuncs.com\/tokens\/icon\/b9941aae2c8233f68cc4dc1da66f3393.jpg","isRecommend":1,"isFee":0},
+  {"name":"CityapeXUnite","symbol":"CXU","address":"0x662cD41A551B9815Ff7963499930dc773f18256f","chainId":20181205,"decimals":3,"logoURI":"https:\/\/token-list.oss-cn-hongkong.aliyuncs.com\/tokens\/icon\/d94b62f9b316856c7c6d25e2f81d6381.jpg","isRecommend":1,"isFee":0},{"name":"QQBT","symbol":"QQBT","address":"0x5aA97e27Eb1a3841e44bAeC52d8224612b1174c0","chainId":20181205,"decimals":3,"logoURI":"https:\/\/token-list.oss-cn-hongkong.aliyuncs.com\/tokens\/icon\/500405bec04a03c51936d061cda9ff96.jpg","isRecommend":1,"isFee":0},{"name":"QDBT","symbol":"QDBT","address":"0xFc2CD5A7344bF838f8ed20aDd0410cAF4344b33B","chainId":20181205,"decimals":3,"logoURI":"https:\/\/token-list.oss-cn-hongkong.aliyuncs.com\/tokens\/icon\/98f3e7204a313c4e009a9a5c41dcbb48.png","isRecommend":1,"isFee":0},
+  {"name":"BUC","symbol":"BUC","address":"0x47b770B63F59F01A5B12cA1dba6A12c027295A14","chainId":20181205,"decimals":3,"logoURI":"https:\/\/token-list.oss-cn-hongkong.aliyuncs.com\/tokens\/icon\/113353965b335c773a4670e4b99e77ef.png","isRecommend":0,"isFee":0},{"name":"LUC","symbol":"LUC","address":"0x5c8426a122Bf473a068e6D9Dd5d2D624CbF958f9","chainId":20181205,"decimals":3,"logoURI":"https:\/\/token-list.oss-cn-hongkong.aliyuncs.com\/tokens\/icon\/755120bc7408806bfd3d466f866ccaa9.jpg","isRecommend":0,"isFee":0},{"name":"catcoin","symbol":"CAT","address":"0xa33f41A287905fE6c45C4c70b34507F7aD191F38","chainId":20181205,"decimals":3,"logoURI":"https:\/\/token-list.oss-cn-hongkong.aliyuncs.com\/tokens\/icon\/416ef0cbc057fa80d2a9711007d47e01.jpg","isRecommend":0,"isFee":0},{"name":"qampl","symbol":"qampl","address":"0xfc1B70e0FdecC97FA13819c36af947872Bd1a355","chainId":20181205,"decimals":18,"logoURI":"https:\/\/token-list.oss-cn-hongkong.aliyuncs.com\/tokens\/icon\/91ba451da7caa22e20b7dcc1eaf23ddd.png","isRecommend":0,"isFee":0}
+]
+}
